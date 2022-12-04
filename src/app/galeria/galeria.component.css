@@ -1,0 +1,29 @@
+#galeria{
+  margin: 1rem auto;
+  width:100%;
+  column-count: 5;
+  border-radius: 16px;
+  overflow: hidden;
+
+}
+ #galeria div img{
+  width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+  transition: transform 0.8s;
+  overflow: hidden;
+  border-radius: 16px;
+
+ }
+
+ #galeria div {
+  overflow: hidden;
+  border-radius: 30px;
+
+ }
+
+ #galeria div:hover img{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+ }
