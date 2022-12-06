@@ -1,0 +1,36 @@
+#historia {
+  margin: 50px 50px 50px 50px;
+  width: fit-content;
+  font-family: "Playfair Display", serif;
+  align-items: center;
+}
+
+#historia img {
+  height: 500px;
+  width: auto;
+  border-radius: 16px;
+}
+
+#historia div {
+  margin: 50px 50px 50px 50px;
+  align-items: center;
+}
+
+#historia div p{
+  justify-content: center;
+  align-items: center;
+}
+
+#nombre{
+  font-style: italic;
+  margin: 10px 150px;
+  font-weight: 590;
+}
+
+#parque{
+  font-style: italic;
+  margin: 10px 110px;
+  font-weight: 590;
+}
+
+

@@ -1,10 +1,11 @@
 .flip-card {
   background-color: transparent;
-  width: 280px;
+  width: 275px;
   height: 300px;
   perspective: 1000px;
   margin-bottom: 20px;
 }
+
 .flip-card-inner {
   position: relative;
   width: 100%;
@@ -56,7 +57,10 @@
 
 .flip-card-back p {
   margin-top: 1rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
+  color: black;
+  font-family: 'Playfair Display', serif;
+
 }
 
 .flip-card-back h1{
